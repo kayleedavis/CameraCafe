@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html {
+	background-color:#594e44;
+}
+
+table {
+	color: #594e44;
+}
+
+form {
+	color: #594e44;
+}
+
+.table th {
+	border-top:none;
+	font-weight:bold;
+}
+
+.table thead th {
+	border-bottom:none;
+}
+
+.table td {
+	border-top:none;
+}
+
+.navbar{
+	background-color:transparent;
+	padding: 20px 60px;
+}
+
+
+.navbar-toggler {
+	color:#fff;
+	background-color: #fff;
+}
+
+
+.btn.btn-outline-success {
+	background-color: #d5b890;
+}
+
+.navback{
+	background: url("../img/home.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.navabout{
+	background: url("../img/about.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.navcam{
+	background: url("../img/camera.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.navmenu{
+	background: url("../img/menu.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.navevent{
+	background: url("../img/event.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.navcontact{
+	background: url("../img/contact.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:100vh;
+	width:100%;
+}
+
+.insta{
+	background: url("../img/insta.jpg") no-repeat center ;
+	background-size:cover;
+	min-height:30vh;
+	width:100%;
+}
+
+h1{
+	font-family: 'Special Elite', cursive;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+	margin-top:10px;
+	margin-bottom:20px;
+}
+
+.breadcrumb {
+	background-color:transparent;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+}
+
+button.btn {
+	color: #25211c;
+	background-color: #d5b890;
+	border: none;
+}
+
+button.btn:hover {
+	background-color: #25211c;
+	color: #d5b890;
+	border: none;
+}
+
+a.navbar-brand, a.nav-link {
+	color: #fff;
+	text-shadow: 2px 2px black;
+}
+
+a.navbar-brand:hover, a.nav-link:hover {
+	color: #25211c;
+	text-shadow: 2px 2px white;
+}
+
+a {
+	color: #fff;
+	font-weight:bold;
+}
+
+a:hover {
+	color: #594e44;
+}
+
+
+.row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+a.bc {
+	color: #594e44;
+}
+
+a.bc:hover {
+	color: #594e44;
+	text-decoration: none;
+}
+
+li.breadcrumb-item.active {
+	color: #594e44;
+}
+
+.rowShort{
+margin-bottom:10px;
+}
+
+.footer{
+background-color:#594e44;
+padding-top:20px;
+padding-bottom:20px;
+}
